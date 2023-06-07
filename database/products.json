@@ -1,0 +1,24 @@
+[
+  {
+    "id": "78cb107a-55a8-4a98-8147-e3e69548938e",
+    "name": "Ring",
+    "price": "$1000",
+    "userId": "a3de0938-4fb1-4b6c-b895-0ff371b6ffb2",
+    "info": "Gold Ring 5 gramm and made in Germany",
+    "reviews": [
+      {
+        "username": "rakhmatov07",
+        "rating": 5,
+        "message": "It is awesome",
+        "userId": "a3de0938-4fb1-4b6c-b895-0ff371b6ffb2"
+      },
+      {
+        "username": "rakhmatov07",
+        "rating": 5,
+        "message": "It is awesome",
+        "userId": "a3de0938-4fb1-4b6c-b895-0ff371b6ffb2"
+      }
+    ],
+    "createdAt": "2023-06-07T20:31:54.539Z"
+  }
+]
